@@ -175,11 +175,7 @@ public class Project3 {
         Double rupeenya = 1.0;
         System.out.println(" Rupee =" + ku.RupeeToRp(rupeenya));
         
-        System.err.println("Ini Baru");
-
-        System.out.println("ini dari airgg");
-        System.out.println("ini dari airgg2");
-        System.out.println("ini dari zzzzzzzzz");
+        System.err.println("Ini Baru zzz");
     }
     
 }
