@@ -174,6 +174,8 @@ public class Project3 {
         
         Double rupeenya = 1.0;
         System.out.println(" Rupee =" + ku.RupeeToRp(rupeenya));
+        
+        System.err.println("Ini Baru");
     }
     
 }
