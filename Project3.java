@@ -180,6 +180,18 @@ public class Project3 {
         System.out.println("ini dari airgg");
         System.out.println("ini dari airgg2");
         System.out.println("ini dari zzzzzzzzz");
+
+        System.out.println("ini dari airgg");
+        System.out.println("ini dari airgg2");
+        System.out.println("ini dari zzzzzzzzz");
+
+        System.out.println("ini dari airgg");
+        System.out.println("ini dari airgg2");
+        System.out.println("ini dari zzzzzzzzz");
+        
+        System.out.println("ini dari airgg");
+        System.out.println("ini dari airgg2");
+        System.out.println("ini dari zzzzzzzzz");
     }
     
 }
