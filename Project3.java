@@ -176,6 +176,10 @@ public class Project3 {
         System.out.println(" Rupee =" + ku.RupeeToRp(rupeenya));
         
         System.err.println("Ini Baru zzz");
+        
+        Cube cube = new Cube();
+        Double kubus = cube.volume(5);
+        System.out.println("sisi awal=5 volume=5 =" +kubus);
     }
     
 }
