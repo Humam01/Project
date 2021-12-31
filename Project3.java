@@ -178,6 +178,8 @@ public class Project3 {
         System.err.println("Ini Baru");
 
         System.out.println("ini dari airgg");
+        System.out.println("ini dari airgg2");
+        System.out.println("ini dari zzzzzzzzz");
     }
     
 }
