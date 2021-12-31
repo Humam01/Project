@@ -176,6 +176,8 @@ public class Project3 {
         System.out.println(" Rupee =" + ku.RupeeToRp(rupeenya));
         
         System.err.println("Ini Baru");
+
+        System.out.println("ini dari airgg");
     }
     
 }
